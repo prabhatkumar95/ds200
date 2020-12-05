@@ -11,7 +11,8 @@ The raw data can be downloaded from [here](https://smartcities.data.gov.in/catal
 The cleaned data used for analysis can be found in the repo named as <b> data.csv </b>
 
 
-#Observations
+# Observations
+
 *
 
 *
