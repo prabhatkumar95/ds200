@@ -8,3 +8,4 @@ The repository is for the analysis of Air Quality Index for the city of Bengalur
 The data used has been refered from the [Open Governement Data Platform India](https://data.gov.in/)
 
 The raw data can be downloaded from [here]()
+The cleaned data used for analysis can be found in the repo named as <b> data.csv <\b>
